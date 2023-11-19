@@ -1,6 +1,7 @@
 # manage-hardware
 Create an API resource
-Step 1:Go to the master branch.
+
+Step 1: Navigate to the master branch and clone this project.
 
 Step 2:Run `composer install`.
 
