@@ -1,5 +1,5 @@
 # manage-hardware
-Create an API resource
+Create an API resource with API Platform
 
 Step 1: Navigate to the master branch and clone this project.
 
