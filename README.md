@@ -5,7 +5,7 @@ Step 1: Navigate to the master branch and clone this project.
 
 Step 2:Run `composer install`.
 
-Step 3:Create a user 'tolotsoa' with the password 'testtolotsoa' in the MySQL database.
+Step 3: Create a user 'tolotsoa' with the password 'testtolotsoa' in the MySQL database and grant all privileges.
 
 Step 4:Execute the command `php bin/console doctrine:database:create` to create the 'hardware' database.
 
